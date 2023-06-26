@@ -1,4 +1,4 @@
-Tecnologias usadas:
--Java 
--JDBC (Java database connection)
+Tecnologias utilizadas:<br>
+-Java <br>
+-JDBC (Java database connection)<br>
 -Mysql
